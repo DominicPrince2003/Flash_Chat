@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633140252359",
+    "project_id": "flash-chat-14eb2",
+    "storage_bucket": "flash-chat-14eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633140252359:android:421a67cd91a30f96fd38e2",
+        "android_client_info": {
+          "package_name": "com.dominic.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633140252359-kk6p1ifrftq17vvu4kokon8san3vhhou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPjWa3UbUQu0kJTVY8_GrTj3r3hv0OHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633140252359-kk6p1ifrftq17vvu4kokon8san3vhhou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
